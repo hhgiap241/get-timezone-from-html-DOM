@@ -1,0 +1,339 @@
+timezone_gap,timezone_code,timezone_name_e
+-11:00,NUT,Niue Time
+-11:00,SST,Samoa Standard Time
+-10:00,CKT,Cook Islands Standard Time
+-10:00,HAST,Hawaii-Aleutian Standard Time
+-09:00,HADT,Hawaii-Aleutian Daylight Time
+-10:00,TAHT,Tahiti Time
+-09:30,MART,Marquesas Time
+-09:00,AKST,Alaska Standard Time
+-08:00,AKDT,Alaska Daylight Time
+-09:00,GAMT,Gambier Time
+-07:00,PDT,Pacific Daylight Time (North America)
+-08:00,PST,Pacific Standard Time (North America)
+-08:00,PST,Pitcairn Time
+
+
+-07:00,ABC,Mexican Pacific Standard Time
+-07:00,ABC,Mexican Pacific Time
+-07:00,ABC,Mountain Standard Time - Dawson Creek
+-07:00,ABC,Mountain Standard Time - Fort Nelson
+-07:00,ABC,Mountain Standard Time - Phoenix
+-07:00,ABC,Mountain Time - Boise
+-07:00,ABC,Mountain Time - Cambridge Bay
+-07:00,ABC,Mountain Time - Ciudad Juárez
+-07:00,ABC,Mountain Time - Denver
+-07:00,ABC,Mountain Time - Edmonton
+-07:00,ABC,Mountain Time - Inuvik
+-07:00,ABC,Mountain Time - Yellowknife
+-07:00,ABC,Yukon Time - Dawson
+-07:00,ABC,Yukon Time - Whitehorse
+-06:00,ABC,Central Standard Time - Belize
+-06:00,ABC,Central Standard Time - Costa Rica
+-06:00,ABC,Central Standard Time - El Salvador
+-06:00,ABC,Central Standard Time - Guatemala
+-06:00,ABC,Central Standard Time - Managua
+-06:00,ABC,Central Standard Time - Regina
+-06:00,ABC,Central Standard Time - Swift Current
+-06:00,ABC,Central Standard Time - Tegucigalpa
+-06:00,ABC,Central Time - Bahía de Banderas
+-06:00,ABC,Central Time - Beulah, North Dakota
+-06:00,ABC,Central Time - Center, North Dakota
+-06:00,ABC,Central Time - Chicago
+-06:00,ABC,Central Time - Chihuahua
+-06:00,ABC,Central Time - Knox, Indiana
+-06:00,ABC,Central Time - Matamoros
+-06:00,ABC,Central Time - Menominee
+-06:00,ABC,Central Time - Mérida
+-06:00,ABC,Central Time - Mexico City
+-06:00,ABC,Central Time - Monterrey
+-06:00,ABC,Central Time - New Salem, North Dakota
+-06:00,ABC,Central Time - Ojinaga
+-06:00,ABC,Central Time - Rainy River
+-06:00,ABC,Central Time - Rankin Inlet
+-06:00,ABC,Central Time - Resolute
+-06:00,ABC,Central Time - Tell City, Indiana
+-06:00,ABC,Central Time - Winnipeg
+-06:00,ABC,Galapagos Time
+-05:00,ABC,Acre Standard Time - Eirunepe
+-05:00,ABC,Acre Standard Time - Rio Branco
+-05:00,ABC,Colombia Standard Time
+-05:00,ABC,Cuba Time
+-05:00,ABC,Easter Island Time
+-05:00,ABC,Eastern Standard Time - Cancún
+-05:00,ABC,Eastern Standard Time - Jamaica
+-05:00,ABC,Eastern Standard Time - Panama
+-05:00,ABC,Eastern Time - Detroit
+-05:00,ABC,Eastern Time - Grand Turk
+-05:00,ABC,Eastern Time - Indianapolis
+-05:00,ABC,Eastern Time - Iqaluit
+-05:00,ABC,Eastern Time - Louisville
+-05:00,ABC,Eastern Time - Marengo, Indiana
+-05:00,ABC,Eastern Time - Monticello, Kentucky
+-05:00,ABC,Eastern Time - New York
+-05:00,ABC,Eastern Time - Nipigon
+-05:00,ABC,Eastern Time - Pangnirtung
+-05:00,ABC,Eastern Time - Petersburg, Indiana
+-05:00,ABC,Eastern Time - Port-au-Prince
+-05:00,ABC,Eastern Time - Thunder Bay
+-05:00,ABC,Eastern Time - Toronto
+-05:00,ABC,Eastern Time - Vevay, Indiana
+-05:00,ABC,Eastern Time - Vincennes, Indiana
+-05:00,ABC,Eastern Time - Winamac, Indiana
+-05:00,ABC,Ecuador Time
+-05:00,ABC,Peru Standard Time
+-04:00,ABC,Amazon Standard Time - Boa Vista
+-04:00,ABC,Amazon Standard Time - Campo Grande
+-04:00,ABC,Amazon Standard Time - Cuiaba
+-04:00,ABC,Amazon Standard Time - Manaus
+-04:00,ABC,Amazon Standard Time - Porto Velho
+-04:00,ABC,Atlantic Standard Time - Barbados
+-04:00,ABC,Atlantic Standard Time - Martinique
+-04:00,ABC,Atlantic Standard Time - Puerto Rico
+-04:00,ABC,Atlantic Standard Time - Santo Domingo
+-04:00,ABC,Atlantic Time - Bermuda
+-04:00,ABC,Atlantic Time - Glace Bay
+-04:00,ABC,Atlantic Time - Goose Bay
+-04:00,ABC,Atlantic Time - Halifax
+-04:00,ABC,Atlantic Time - Moncton
+-04:00,ABC,Atlantic Time - Thule
+-04:00,ABC,Bolivia Time
+-04:00,ABC,Guyana Time
+-04:00,ABC,Venezuela Time
+-03:30,ABC,Newfoundland Time
+-03:00,ABC,Argentina Standard Time - Buenos Aires
+-03:00,ABC,Argentina Standard Time - Catamarca
+-03:00,ABC,Argentina Standard Time - Cordoba
+-03:00,ABC,Argentina Standard Time - Jujuy
+-03:00,ABC,Argentina Standard Time - La Rioja
+-03:00,ABC,Argentina Standard Time - Mendoza
+-03:00,ABC,Argentina Standard Time - Rio Gallegos
+-03:00,ABC,Argentina Standard Time - Salta
+-03:00,ABC,Argentina Standard Time - San Juan
+-03:00,ABC,Argentina Standard Time - San Luis
+-03:00,ABC,Argentina Standard Time - Tucuman
+-03:00,ABC,Argentina Standard Time - Ushuaia
+-03:00,ABC,Brasilia Standard Time - Araguaina
+-03:00,ABC,Brasilia Standard Time - Bahia
+-03:00,ABC,Brasilia Standard Time - Belem
+-03:00,ABC,Brasilia Standard Time - Fortaleza
+-03:00,ABC,Brasilia Standard Time - Maceio
+-03:00,ABC,Brasilia Standard Time - Recife
+-03:00,ABC,Brasilia Standard Time - Santarem
+-03:00,ABC,Brasilia Standard Time - Sao Paulo
+-03:00,ABC,Chile Time
+-03:00,ABC,Falkland Islands Standard Time
+-03:00,ABC,French Guiana Time
+-03:00,ABC,Palmer Time
+-03:00,ABC,Paraguay Time
+-03:00,ABC,Punta Arenas Time
+-03:00,ABC,Rothera Time
+-03:00,ABC,St. Pierre & Miquelon Time
+-03:00,ABC,Suriname Time
+-03:00,ABC,Uruguay Standard Time
+-03:00,ABC,West Greenland Time
+-02:00,ABC,Fernando de Noronha Standard Time
+-02:00,ABC,South Georgia Time
+-01:00,ABC,Azores Time
+-01:00,ABC,Cape Verde Standard Time
+-01:00,ABC,East Greenland Time
++00:00,ABC,Coordinated Universal Time
++00:00,ABC,Greenwich Mean Time
++00:00,ABC,Greenwich Mean Time - Abidjan
++00:00,ABC,Greenwich Mean Time - Bissau
++00:00,ABC,Greenwich Mean Time - Danmarkshavn
++00:00,ABC,Greenwich Mean Time - Monrovia
++00:00,ABC,Greenwich Mean Time - Reykjavik
++00:00,ABC,Greenwich Mean Time - São Tomé
++00:00,ABC,Ireland Time
++00:00,ABC,Troll Time
++00:00,ABC,United Kingdom Time
++00:00,ABC,Western European Time - Canary
++00:00,ABC,Western European Time - Faroe
++00:00,ABC,Western European Time - Lisbon
++00:00,ABC,Western European Time - Madeira
++01:00,ABC,Central European Standard Time - Algiers
++01:00,ABC,Central European Standard Time - Tunis
++01:00,ABC,Central European Time - Amsterdam
++01:00,ABC,Central European Time - Andorra
++01:00,ABC,Central European Time - Belgrade
++01:00,ABC,Central European Time - Berlin
++01:00,ABC,Central European Time - Brussels
++01:00,ABC,Central European Time - Budapest
++01:00,ABC,Central European Time - Ceuta
++01:00,ABC,Central European Time - Copenhagen
++01:00,ABC,Central European Time - Gibraltar
++01:00,ABC,Central European Time - Luxembourg
++01:00,ABC,Central European Time - Madrid
++01:00,ABC,Central European Time - Malta
++01:00,ABC,Central European Time - Monaco
++01:00,ABC,Central European Time - Oslo
++01:00,ABC,Central European Time - Paris
++01:00,ABC,Central European Time - Prague
++01:00,ABC,Central European Time - Rome
++01:00,ABC,Central European Time - Stockholm
++01:00,ABC,Central European Time - Tirane
++01:00,ABC,Central European Time - Vienna
++01:00,ABC,Central European Time - Warsaw
++01:00,ABC,Central European Time - Zurich
++01:00,ABC,Morocco Time
++01:00,ABC,West Africa Standard Time - Lagos
++01:00,ABC,West Africa Standard Time - Ndjamena
++01:00,ABC,Western Sahara Time
++02:00,ABC,Central Africa Time - Juba
++02:00,ABC,Central Africa Time - Khartoum
++02:00,ABC,Central Africa Time - Maputo
++02:00,ABC,Central Africa Time - Windhoek
++02:00,ABC,Eastern European Standard Time - Cairo
++02:00,ABC,Eastern European Standard Time - Kaliningrad
++02:00,ABC,Eastern European Standard Time - Tripoli
++02:00,ABC,Eastern European Time - Athens
++02:00,ABC,Eastern European Time - Beirut
++02:00,ABC,Eastern European Time - Bucharest
++02:00,ABC,Eastern European Time - Chisinau
++02:00,ABC,Eastern European Time - Gaza
++02:00,ABC,Eastern European Time - Hebron
++02:00,ABC,Eastern European Time - Helsinki
++02:00,ABC,Eastern European Time - Kyiv
++02:00,ABC,Eastern European Time - Nicosia
++02:00,ABC,Eastern European Time - Riga
++02:00,ABC,Eastern European Time - Sofia
++02:00,ABC,Eastern European Time - Tallinn
++02:00,ABC,Eastern European Time - Uzhhorod
++02:00,ABC,Eastern European Time - Vilnius
++02:00,ABC,Eastern European Time - Zaporozhye
++02:00,ABC,Famagusta Time
++02:00,ABC,Israel Time
++02:00,ABC,South Africa Standard Time
++03:00,ABC,Arabian Standard Time - Baghdad
++03:00,ABC,Arabian Standard Time - Qatar
++03:00,ABC,Arabian Standard Time - Riyadh
++03:00,ABC,East Africa Time
++03:00,ABC,Jordan Time
++03:00,ABC,Kirov Time
++03:00,ABC,Moscow Standard Time - Minsk
++03:00,ABC,Moscow Standard Time - Moscow
++03:00,ABC,Moscow Standard Time - Simferopol
++03:00,ABC,Syria Time
++03:00,ABC,Türkiye Time
++03:00,ABC,Volgograd Standard Time
++03:30,ABC,Iran Time
++04:00,ABC,Armenia Standard Time
++04:00,ABC,Astrakhan Time
++04:00,ABC,Azerbaijan Standard Time
++04:00,ABC,Georgia Standard Time
++04:00,ABC,Gulf Standard Time
++04:00,ABC,Mauritius Standard Time
++04:00,ABC,Réunion Time
++04:00,ABC,Samara Standard Time
++04:00,ABC,Saratov Time
++04:00,ABC,Seychelles Time
++04:00,ABC,Ulyanovsk Time
++04:30,ABC,Afghanistan Time
++05:00,ABC,French Southern & Antarctic Time
++05:00,ABC,Maldives Time
++05:00,ABC,Mawson Time
++05:00,ABC,Pakistan Standard Time
++05:00,ABC,Tajikistan Time
++05:00,ABC,Turkmenistan Standard Time
++05:00,ABC,Uzbekistan Standard Time - Samarkand
++05:00,ABC,Uzbekistan Standard Time - Tashkent
++05:00,ABC,West Kazakhstan Time - Aqtau
++05:00,ABC,West Kazakhstan Time - Aqtobe
++05:00,ABC,West Kazakhstan Time - Atyrau
++05:00,ABC,West Kazakhstan Time - Oral
++05:00,ABC,West Kazakhstan Time - Qyzylorda
++05:00,ABC,Yekaterinburg Standard Time
++05:30,ABC,India Standard Time - Colombo
++05:30,ABC,India Standard Time - Kolkata
++05:45,ABC,Nepal Time
++06:00,ABC,Bangladesh Standard Time
++06:00,ABC,Bhutan Time
++06:00,ABC,East Kazakhstan Time - Almaty
++06:00,ABC,East Kazakhstan Time - Kostanay
++06:00,ABC,Indian Ocean Time
++06:00,ABC,Kyrgyzstan Time
++06:00,ABC,Omsk Standard Time
++06:00,ABC,Urumqi Time
++06:00,ABC,Vostok Time
++06:30,ABC,Cocos Islands Time
++06:30,ABC,Myanmar Time
++07:00,ABC,Barnaul Time
++07:00,ABC,Christmas Island Time
++07:00,ABC,Davis Time
++07:00,ABC,Hovd Standard Time
++07:00,ABC,Indochina Time - Bangkok
++07:00,ABC,Indochina Time - Ho Chi Minh City
++07:00,ABC,Krasnoyarsk Standard Time - Krasnoyarsk
++07:00,ABC,Krasnoyarsk Standard Time - Novokuznetsk
++07:00,ABC,Novosibirsk Standard Time
++07:00,ABC,Tomsk Time
++07:00,ABC,Western Indonesia Time - Jakarta
++07:00,ABC,Western Indonesia Time - Pontianak
++08:00,ABC,Australian Western Standard Time
++08:00,ABC,Brunei Darussalam Time
++08:00,ABC,Central Indonesia Time
++08:00,ABC,China Standard Time - Macao
++08:00,ABC,China Standard Time - Shanghai
++08:00,ABC,Hong Kong Standard Time
++08:00,ABC,Irkutsk Standard Time
++08:00,ABC,Malaysia Time - Kuala Lumpur
++08:00,ABC,Malaysia Time - Kuching
++08:00,ABC,Philippine Standard Time
++08:00,ABC,Singapore Standard Time
++08:00,ABC,Taipei Standard Time
++08:00,ABC,Ulaanbaatar Standard Time - Choibalsan
++08:00,ABC,Ulaanbaatar Standard Time - Ulaanbaatar
++08:45,ABC,Australian Central Western Standard Time
++09:00,ABC,East Timor Time
++09:00,ABC,Eastern Indonesia Time
++09:00,ABC,Japan Standard Time
++09:00,ABC,Korean Standard Time - Pyongyang
++09:00,ABC,Korean Standard Time - Seoul
++09:00,ABC,Palau Time
++09:00,ABC,Yakutsk Standard Time - Chita
++09:00,ABC,Yakutsk Standard Time - Khandyga
++09:00,ABC,Yakutsk Standard Time - Yakutsk
++09:30,ABC,Australian Central Standard Time
++10:00,ABC,Australian Eastern Standard Time - Brisbane
++10:00,ABC,Australian Eastern Standard Time - Lindeman
++10:00,ABC,Chamorro Standard Time
++10:00,ABC,Chuuk Time
++10:00,ABC,Papua New Guinea Time
++10:00,ABC,Vladivostok Standard Time - Ust-Nera
++10:00,ABC,Vladivostok Standard Time - Vladivostok
++10:30,ABC,Central Australia Time - Adelaide
++10:30,ABC,Central Australia Time - Broken Hill
++11:00,ABC,Bougainville Time
++11:00,ABC,Casey Time
++11:00,ABC,Eastern Australia Time - Hobart
++11:00,ABC,Eastern Australia Time - Macquarie
++11:00,ABC,Eastern Australia Time - Melbourne
++11:00,ABC,Eastern Australia Time - Sydney
++11:00,ABC,Kosrae Time
++11:00,ABC,Lord Howe Time
++11:00,ABC,Magadan Standard Time
++11:00,ABC,New Caledonia Standard Time
++11:00,ABC,Ponape Time
++11:00,ABC,Sakhalin Standard Time
++11:00,ABC,Solomon Islands Time
++11:00,ABC,Srednekolymsk Time
++11:00,ABC,Vanuatu Standard Time
++12:00,ABC,Anadyr Standard Time
++12:00,ABC,Fiji Standard Time
++12:00,ABC,Gilbert Islands Time
++12:00,ABC,Marshall Islands Time - Kwajalein
++12:00,ABC,Marshall Islands Time - Majuro
++12:00,ABC,Nauru Time
++12:00,ABC,Norfolk Island Time
++12:00,ABC,Petropavlovsk-Kamchatski Standard Time
++12:00,ABC,Tuvalu Time
++12:00,ABC,Wake Island Time
++12:00,ABC,Wallis & Futuna Time
++13:00,ABC,Apia Standard Time
++13:00,ABC,New Zealand Time
++13:00,ABC,Phoenix Islands Time
++13:00,ABC,Tokelau Time
++13:00,ABC,Tonga Standard Time
++13:45,ABC,Chatham Time
++14:00,ABC,Line Islands Time

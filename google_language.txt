@@ -1,0 +1,73 @@
+Afrikaans
+azərbaycan
+Bahasa Indonesia
+Català
+Cymraeg
+Dansk
+Deutsch
+English (UK)
+English (US)
+Español
+Español (Latinoamérica)
+euskara
+Filipino
+Français
+Français (Canada)
+galego
+Hrvatski
+isiZulu
+Italiano
+Kiswahili
+Latviešu
+Lietuvių
+Magyar
+Melayu
+Nederlands
+Norsk (bokmål)
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Slovenčina
+Slovenščina
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+íslenska
+Čeština
+Ελληνικά
+беларуская
+Български
+монгол
+Русский
+Српски
+Українська
+қазақ тілі
+Հայերեն
+עברית
+العربية
+اُردُو
+فارسی
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ภาษาไทย
+ລາວ
+မြန်မာ
+ქართული
+አማርኛ
+ខ្មែរ
+中文 (香港)
+中文（简体）
+中文（繁體）
+日本語
+한국어
