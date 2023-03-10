@@ -1,25 +1,20 @@
 timezone_gap,timezone_code,timezone_name_e,zone_id
--12:00,IDL,International Date Line West,k co
-+13:00,WST,Samoa,Pacific/Apia
--11:00,UTC,Coordinated Universal Time-11,k co
 -10:00,HAST,Aleutian Islands,America/Adak
 -10:00,HST,Hawaii,Pacific/Honolulu
 -09:30,MART,Marquesas Islands,Pacific/Marquesas
 -09:00,AKST,Alaska,America/Anchorage
--09:00,UTC,Coordinated Universal Time-09,k co
--07:00,MST,Yukon,America/Whitehorse
 -08:00,PST,Baja California,America/Tijuana
--08:00,UTC,Coordinated Universal Time-08,k co
 -08:00,PST,Pacific Time (US & Canada),America/Los_Angeles
+-07:00,MST,Yukon,America/Whitehorse
 -07:00,MST,Arizona,America/Phoenix
 -07:00,MST,Chihuahua - La Paz - Mazatlan,America/Mazatlan
 -07:00,MST,Mountain Time (US & Canada),America/Creston
--05:00,EST,Chetumal,America/Cancun
 -06:00,CST,Central America,America/Merida
 -06:00,CST,Central Time (US & Canada),America/Bahia_Banderas
 -06:00,EAST,Easter Island,Pacific/Easter
 -06:00,CST,Guadalajara - Mexico City - Monterrey,America/Mexico_City
 -06:00,CST,Saskatchewan,America/Regina
+-05:00,EST,Chetumal,America/Cancun
 -05:00,COT,Bogota - Lima - Quito - Rio Branco,America/Bogota
 -05:00,EST,Eastern Time (US & Canada),America/Atikokan
 -05:00,EST,Haiti,America/Port-au-Prince
@@ -27,12 +22,12 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 -05:00,EST,Indiana (East),America/Indiana/Indianapolis
 -05:00,EST,Turks and Caicos,America/Grand_Turk
 -04:00,VET,Caracas,America/Caracas
--03:00,CLST,Punta Arenas,America/Punta_Arenas
 -04:00,PYT,Asuncion,America/Asuncion
 -04:00,EDT,Atlantic Time (Canada),America/Glace_Bay
 -04:00,AMT,Cuiaba,America/Cuiaba
 -04:00,GYT,Georgetown - La Paz - Manaus - San Juan,America/Guyana
 -04:00,CLT,Santiago,America/Santiago
+-03:00,CLST,Punta Arenas,America/Punta_Arenas
 -03:30,NST,Newfoundland,America/St_Johns
 -03:00,BRT,Araguaina,America/Araguaina
 -03:00,BRT,Brasilia,America/Sao_Paulo
@@ -42,7 +37,6 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 -03:00,UYT,Montevideo,America/Montevideo
 -03:00,PMST,Saint Pierre and Miquelon,America/Miquelon
 -03:00,BRT,Salvador,America/Bahia
--02:00,UTC,Coordinated Universal Time-02,k co
 -01:00,AZOT,Azores,Atlantic/Azores
 -01:00,CVT,Cabo Verde Is.,Atlantic/Cape_Verde
 +00:00,UTC,Coordinated Universal Time,Europe/London
@@ -76,15 +70,15 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 +03:00,MSK,Moscow - St. Petersburg,Europe/Moscow
 +03:00,EAT,Nairobi,Africa/Nairobi
 +03:00,MSK,Volgograd,Europe/Volgograd
++03:30,IRST,Tehran,Asia/Tehran
 +04:00,SAMT,Astrakhan - Ulyanovsk,Europe/Samara
 +04:00,SAMT,Izhevsk - Samara,Europe/Samara
 +04:00,MSK,Saratov,Europe/Saratov
-+03:30,IRST,Tehran,Asia/Tehran
 +04:00,GST,Abu Dhabi - Muscat,Asia/Dubai
 +04:00,AZT,Baku,Asia/Baku
 +04:00,MUT,Port Louis,Indian/Mauritius
 +04:00,GET,Tbilisi,Asia/Tbilisi
-+04:00,AMT,Yerevan,Asia/Yerevan.
++04:00,AMT,Yerevan,Asia/Yerevan
 +04:30,AFT,Kabul,Asia/Kabul
 +05:00,TMT,Ashgabat - Toshkent,Asia/Ashgabat
 +05:00,YEKT,Ekaterinburg,Asia/Yekaterinburg
@@ -96,10 +90,10 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 +06:00,ALMT,Nur-Sultan,Asia/Almaty
 +06:00,BST,Dhaka,Asia/Dhaka
 +06:00,OMST,Omsk,Asia/Omsk
++06:30,MMT,Yangon (Rangoon),Asia/Yangon
 +07:00,KRAT,Barnaul - Gorno-Altaysk,Asia/Krasnoyarsk
 +07:00,NOVT,Novosibirsk,Asia/Novosibirsk
 +07:00,KRAT,Tomsk,Asia/Omsk
-+06:30,MMT,Yangon (Rangoon),Asia/Yangon
 +07:00,ICT,Bangkok - Hanoi - Jakarta,Asia/Bangkok
 +07:00,HOVT,Hovd,Asia/Hovd
 +07:00,KRAT,Krasnoyarsk,Asia/Krasnoyarsk
@@ -109,10 +103,10 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 +08:00,AWST,Perth,Australia/Perth
 +08:00,CST,Taipei,Asia/Taipei
 +08:00,ULAT,Ulaanbaatar,Asia/Ulaanbaatar
++08:45,ACWST,Eucla,Australia/Eucla
 +09:00,YAKT,Chita,Asia/Chita
 +09:00,KST,Pyongyang,Asia/Pyongyang
-+08:45,ACWST,Eucla,Australia/Eucla
-+09:00,JST,Osaka - Sapporo - Tokyo,Asia/Tokyo.
++09:00,JST,Osaka - Sapporo - Tokyo,Asia/Tokyo
 +09:00,KST,Seoul,Asia/Seoul
 +09:00,YAKT,Yakutsk,Asia/Yakutsk
 +09:30,ACST,Adelaide,Australia/Adelaide
@@ -122,19 +116,18 @@ timezone_gap,timezone_code,timezone_name_e,zone_id
 +10:00,ChST,Guam - Port Moresby,Pacific/Guam
 +10:00,AEST,Hobart,Australia/Hobart
 +10:00,VLAT,Vladivostok,Asia/Vladivostok
++10:30,LHST,Lord Howe Island,Australia/Lord_Howe
 +11:00,BST,Bougainville Island,Pacific/Bougainville
 +11:00,MAGT,Magadan,Asia/Magadan
 +11:00,SAKT,Sakhalin,Asia/Sakhalin
-+10:30,LHST,Lord Howe Island,Australia/Lord_Howe
 +11:00,SRET,Chokurdakh,Asia/Magadan
 +11:00,NFT,Norfolk Island,Pacific/Norfolk
 +11:00,SBT,Solomon Is. - New Caledonia,Pacific/Guadalcanal
 +12:00,ANAT,Anadyr - Petropavlovsk-Kamchatsky,Asia/Anadyr
 +12:00,NZST,Auckland - Wellington,Pacific/Auckland
-+12:00,UTC,Coordinated Universal Time+12,Pacific/Fiji
 +12:00,FJT,Fiji,Pacific/Fiji
 +12:00,PETT,Petropavlovsk-Kamchatsky - Old,Asia/Kamchatka
 +12:45,CHAST,Chatham Islands,Pacific/Chatham
-+13:00,UTC,Coordinated Universal Time+13,
 +13:00,TOT,Nuku'alofa,Pacific/Tongatapu
++13:00,WST,Samoa,Pacific/Apia
 +14:00,LINT,Kiritimati Islan,Pacific/Kiritimati

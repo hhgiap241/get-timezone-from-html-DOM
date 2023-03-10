@@ -1,0 +1,318 @@
+zone_id,timezone_code,timezone_gap,timezone_name_e
+Pacific/Niue,NUT,-11:00,Niue Time - Alofi
+Pacific/Midway,SST,-11:00,Samoa Time - Midway
+Pacific/Pago_Pago,SST,-11:00,Samoa Time - Pago Pago
+Pacific/Rarotonga,CKT,-10:00,Cook Islands Time - Avarua
+America/Adak,HAST,-10:00,Hawaii-Aleutian Time - Adak
+Pacific/Honolulu,HAST,-10:00,"Hawaii-Aleutian Time - Honolulu, East Honolulu, Pearl City, Hilo"
+Pacific/Tahiti,TAHT,-10:00,"Tahiti Time - Faaa, Papeete, Punaauia"
+Pacific/Marquesas,MART,-09:30,Marquesas Time - Marquesas
+America/Anchorage,AKST,-09:00,"Alaska Time - Anchorage, Juneau, Fairbanks, Eagle River"
+Pacific/Gambier,GAMT,-09:00,Gambier Time - Gambier
+America/Los_Angeles,PST,-08:00,"Pacific Time - Los Angeles, San Diego, San Jose, San Francisco"
+America/Tijuana,PST,-08:00,"Pacific Time - Tijuana, Mexicali, Ensenada, Rosarito"
+America/Vancouver,PST,-08:00,"Pacific Time - Vancouver, Surrey, Okanagan, Victoria"
+Pacific/Pitcairn,PST,-08:00,Pitcairn Time - Adamstown
+America/Hermosillo,GMT-7,-07:00,"Mexican Pacific Time - Hermosillo, Culiacán, Ciudad Obregón, Mazatlán"
+America/Edmonton,MST,-07:00,"Mountain Time - Calgary, Edmonton, Red Deer, Sherwood Park"
+America/Ciudad_Juarez,MST,-07:00,Mountain Time - Ciudad Juárez
+America/Denver,MST,-07:00,"Mountain Time - Denver, El Paso, Albuquerque, Colorado Springs"
+America/Phoenix,MST,-07:00,"Mountain Time - Phoenix, Tucson, Mesa, Chandler"
+America/Whitehorse,YT,-07:00,"Yukon Time - Whitehorse, Fort St. John, Creston, Dawson"
+America/Belize,CST,-06:00,"Central Time - Belize City, San Ignacio, San Pedro, Orange Walk"
+America/Chicago,CST,-06:00,"Central Time - Chicago, Houston, San Antonio, Dallas"
+America/Guatemala,CST,-06:00,"Central Time - Guatemala City, Villa Nueva, Mixco, Cobán"
+America/Managua,CST,-06:00,"Central Time - Managua, León, Masaya, Chinandega"
+America/Mexico_City,CST,-06:00,"Central Time - Mexico City, Iztapalapa, León de los Aldama, Puebla"
+America/Matamoros,CST,-06:00,"Central Time - Reynosa, Heroica Matamoros, Nuevo Laredo, Piedras Negras"
+America/Costa_Rica,CST,-06:00,"Central Time - San José, Limón, San Francisco, Alajuela"
+America/El_Salvador,CST,-06:00,"Central Time - San Salvador, Soyapango, San Miguel, Santa Ana"
+America/Regina,CST,-06:00,"Central Time - Saskatoon, Regina, Prince Albert, Moose Jaw"
+America/Tegucigalpa,CST,-06:00,"Central Time - Tegucigalpa, San Pedro Sula, La Ceiba, Choloma"
+America/Winnipeg,CST,-06:00,"Central Time - Winnipeg, Brandon, Steinbach, Kenora"
+Pacific/Easter,EAST,-06:00,Easter Island Time - Easter
+Pacific/Galapagos,GALT,-06:00,Galapagos Time - Galapagos
+America/Rio_Branco,ACT,-05:00,"Acre Time - Rio Branco, Cruzeiro do Sul, Senador Guiomard, Sena Madureira"
+America/Bogota,COT,-05:00,"Colombia Time - Bogotá, Cali, Medellín, Barranquilla"
+America/Havana,CST,-05:00,"Cuba Time - Havana, Santiago de Cuba, Camagüey, Holguín"
+America/Atikokan,EST,-05:00,Eastern Time - Atikokan
+America/Cancun,EST,-05:00,"Eastern Time - Cancún, Chetumal, Playa del Carmen, Cozumel"
+America/Grand_Turk,EST,-05:00,Eastern Time - Cockburn Town
+America/Cayman,EST,-05:00,"Eastern Time - George Town, West Bay"
+America/Jamaica,EST,-05:00,"Eastern Time - Kingston, New Kingston, Spanish Town, Portmore"
+America/Nassau,EST,-05:00,"Eastern Time - Nassau, Lucaya, Freeport"
+America/New_York,EST,-05:00,"Eastern Time - New York City, Brooklyn, Queens, Philadelphia"
+America/Panama,EST,-05:00,"Eastern Time - Panamá, San Miguelito, Juan Díaz, David"
+America/Port-au-Prince,EST,-05:00,"Eastern Time - Port-au-Prince, Carrefour, Delmas 73, Port-de-Paix"
+America/Toronto,EST,-05:00,"Eastern Time - Toronto, Montréal, Ottawa, Mississauga"
+America/Guayaquil,ECT,-05:00,"Ecuador Time - Quito, Guayaquil, Cuenca, Santo Domingo de los Colorados"
+America/Lima,PET,-05:00,"Peru Time - Lima, Callao, Arequipa, Trujillo"
+America/Manaus,AMT,-04:00,"Amazon Time - Manaus, Campo Grande, Cuiabá, Porto Velho"
+America/St_Kitts,AST,-04:00,Atlantic Time - Basseterre
+America/Blanc-Sablon,AST,-04:00,Atlantic Time - Blanc-Sablon
+America/Montserrat,AST,-04:00,"Atlantic Time - Brades, Plymouth"
+America/Barbados,AST,-04:00,Atlantic Time - Bridgetown
+America/St_Lucia,AST,-04:00,Atlantic Time - Castries
+America/Port_of_Spain,AST,-04:00,"Atlantic Time - Chaguanas, Mon Repos, San Fernando, Port of Spain"
+America/Martinique,AST,-04:00,"Atlantic Time - Fort-de-France, Le Lamentin, Le Robert, Sainte-Marie"
+America/St_Barthelemy,AST,-04:00,Atlantic Time - Gustavia
+America/Halifax,AST,-04:00,"Atlantic Time - Halifax, Moncton, Sydney, Dartmouth"
+Atlantic/Bermuda,AST,-04:00,Atlantic Time - Hamilton
+America/St_Vincent,AST,-04:00,"Atlantic Time - Kingstown, Kingstown Park"
+America/Kralendijk,AST,-04:00,Atlantic Time - Kralendijk
+America/Guadeloupe,AST,-04:00,"Atlantic Time - Les Abymes, Baie-Mahault, Le Gosier, Petit-Bourg"
+America/Marigot,AST,-04:00,Atlantic Time - Marigot
+America/Aruba,AST,-04:00,"Atlantic Time - Oranjestad, Tanki Leendert, San Nicolas"
+America/Lower_Princes,AST,-04:00,Atlantic Time - Philipsburg
+America/Tortola,AST,-04:00,Atlantic Time - Road Town
+America/Dominica,AST,-04:00,Atlantic Time - Roseau
+America/St_Thomas,AST,-04:00,"Atlantic Time - Saint Croix, Charlotte Amalie"
+America/Grenada,AST,-04:00,Atlantic Time - Saint George's
+America/Antigua,AST,-04:00,Atlantic Time - Saint John’s
+America/Puerto_Rico,AST,-04:00,"Atlantic Time - San Juan, Bayamón, Carolina, Ponce"
+America/Santo_Domingo,AST,-04:00,"Atlantic Time - Santo Domingo, Santiago de los Caballeros, Santo Domingo Oeste, Santo Domingo Este"
+America/Anguilla,AST,-04:00,Atlantic Time - The Valley
+America/Thule,AST,-04:00,Atlantic Time - Thule
+America/Curacao,AST,-04:00,Atlantic Time - Willemstad
+America/La_Paz,BOT,-04:00,"Bolivia Time - La Paz, Santa Cruz de la Sierra, Cochabamba, Sucre"
+America/Santiago,CLT,-04:00,"Chile Time - Santiago, Puente Alto, Antofagasta, Viña del Mar"
+America/Guyana,GYT,-04:00,"Guyana Time - Georgetown, Linden, New Amsterdam"
+America/Asuncion,PYT,-04:00,"Paraguay Time - Asunción, Ciudad del Este, San Lorenzo, Capiatá"
+America/Caracas,VET,-04:00,"Venezuela Time - Caracas, Maracaibo, Maracay, Valencia"
+America/St_Johns,NST,-03:30,"Newfoundland Time - St. John's, Mount Pearl, Corner Brook, Conception Bay South"
+America/Argentina/Buenos_Aires,ART,-03:00,"Argentina Time - Buenos Aires, Córdoba, Rosario, Mar del Plata"
+America/Sao_Paulo,BRT,-03:00,"Brasilia Time - São Paulo, Rio de Janeiro, Belo Horizonte, Salvador"
+Antarctica/Palmer,CLT,-03:00,"Chile Time - Palmer, Rothera"
+America/Punta_Arenas,CLT,-03:00,"Chile Time - Punta Arenas, Puerto Natales"
+Atlantic/Stanley,FKST,-03:00,Falkland Islands Time - Stanley
+America/Cayenne,GFT,-03:00,"French Guiana Time - Cayenne, Matoury, Saint-Laurent-du-Maroni, Kourou"
+America/Miquelon,PM,-03:00,St. Pierre & Miquelon Time - Saint-Pierre
+America/Paramaribo,SRT,-03:00,"Suriname Time - Paramaribo, Lelydorp"
+America/Montevideo,UYT,-03:00,"Uruguay Time - Montevideo, Salto, Paysandú, Las Piedras"
+America/Nuuk,WGT,-03:00,West Greenland Time - Nuuk
+America/Noronha,FNT,-02:00,Fernando de Noronha Time - Noronha
+Atlantic/South_Georgia,GST,-02:00,South Georgia Time - Grytviken
+Atlantic/Azores,AZOT,-01:00,Azores Time - Ponta Delgada
+Atlantic/Cape_Verde,CVT,-01:00,"Cape Verde Time - Praia, Mindelo, Santa Maria, Cova Figueira"
+America/Scoresbysund,EGT,-01:00,East Greenland Time - Scoresbysund
+Africa/Abidjan,GMT,+00:00,"Greenwich Mean Time - Abidjan, Abobo, Bouaké, Korhogo"
+Africa/Accra,GMT,+00:00,"Greenwich Mean Time - Accra, Kumasi, Tamale, Takoradi"
+Africa/Bamako,GMT,+00:00,"Greenwich Mean Time - Bamako, Ségou, Sikasso, Mopti"
+Africa/Bissau,GMT,+00:00,"Greenwich Mean Time - Bissau, Bafatá"
+Africa/Conakry,GMT,+00:00,"Greenwich Mean Time - Camayenne, Conakry, Nzérékoré, Kindia"
+Africa/Dakar,GMT,+00:00,"Greenwich Mean Time - Dakar, Pikine, Touba, Thiès"
+America/Danmarkshavn,GMT,+00:00,Greenwich Mean Time - Danmarkshavn
+Europe/Isle_of_Man,GMT,+00:00,Greenwich Mean Time - Douglas
+Europe/Dublin,GMT,+00:00,"Greenwich Mean Time - Dublin, South Dublin, Cork, Limerick"
+Africa/Freetown,GMT,+00:00,"Greenwich Mean Time - Freetown, Bo, Kenema, Koidu"
+Atlantic/St_Helena,GMT,+00:00,Greenwich Mean Time - Jamestown
+Africa/Lome,GMT,+00:00,"Greenwich Mean Time - Lomé, Sokodé, Kara, Atakpamé"
+Europe/London,GMT,+00:00,"Greenwich Mean Time - London, Birmingham, Liverpool, Glasgow"
+Africa/Monrovia,GMT,+00:00,"Greenwich Mean Time - Monrovia, Gbarnga, Kakata, Bensonville"
+Africa/Nouakchott,GMT,+00:00,"Greenwich Mean Time - Nouakchott, Nouadhibou, Néma, Kaédi"
+Africa/Ouagadougou,GMT,+00:00,"Greenwich Mean Time - Ouagadougou, Bobo-Dioulasso, Koudougou, Ouahigouya"
+Atlantic/Reykjavik,GMT,+00:00,"Greenwich Mean Time - Reykjavík, Kópavogur, Hafnarfjörður, Reykjanesbær"
+Europe/Jersey,GMT,+00:00,Greenwich Mean Time - Saint Helier
+Europe/Guernsey,GMT,+00:00,Greenwich Mean Time - Saint Peter Port
+Africa/Banjul,GMT,+00:00,"Greenwich Mean Time - Serekunda, Brikama, Bakau, Banjul"
+Africa/Sao_Tome,GMT,+00:00,Greenwich Mean Time - São Tomé
+Antarctica/Troll,GMT,+00:00,Greenwich Mean Time - Troll
+Africa/Casablanca,WET,+00:00,"Western European Time - Casablanca, Rabat, Fès, Sale"
+Africa/El_Aaiun,WET,+00:00,"Western European Time - Laayoune, Dakhla, Boujdour"
+Atlantic/Canary,WET,+00:00,"Western European Time - Las Palmas de Gran Canaria, Santa Cruz de Tenerife, La Laguna, Telde"
+Europe/Lisbon,WET,+00:00,"Western European Time - Lisbon, Porto, Amadora, Braga"
+Atlantic/Faroe,WET,+00:00,Western European Time - Tórshavn
+Africa/Windhoek,CAT,+01:00,"Central Africa Time - Windhoek, Rundu, Walvis Bay, Oshakati"
+Africa/Algiers,CET,+01:00,"Central European Time - Algiers, Boumerdas, Oran, Tébessa"
+Europe/Amsterdam,CET,+01:00,"Central European Time - Amsterdam, Rotterdam, The Hague, Utrecht"
+Europe/Andorra,CET,+01:00,"Central European Time - Andorra la Vella, les Escaldes"
+Europe/Belgrade,CET,+01:00,"Central European Time - Belgrade, Niš, Novi Sad, Zemun"
+Europe/Berlin,CET,+01:00,"Central European Time - Berlin, Hamburg, Munich, Köln"
+Europe/Bratislava,CET,+01:00,"Central European Time - Bratislava, Košice, Nitra, Prešov"
+Europe/Brussels,CET,+01:00,"Central European Time - Brussels, Antwerpen, Gent, Charleroi"
+Europe/Budapest,CET,+01:00,"Central European Time - Budapest, Debrecen, Szeged, Miskolc"
+Europe/Copenhagen,CET,+01:00,"Central European Time - Copenhagen, Århus, Odense, Aalborg"
+Europe/Gibraltar,CET,+01:00,Central European Time - Gibraltar
+Europe/Ljubljana,CET,+01:00,"Central European Time - Ljubljana, Maribor, Kranj, Celje"
+Arctic/Longyearbyen,CET,+01:00,Central European Time - Longyearbyen
+Europe/Luxembourg,CET,+01:00,"Central European Time - Luxembourg, Esch-sur-Alzette, Dudelange"
+Europe/Madrid,CET,+01:00,"Central European Time - Madrid, Barcelona, Valencia, Sevilla"
+Europe/Monaco,CET,+01:00,"Central European Time - Monaco, Monte-Carlo"
+Europe/Oslo,CET,+01:00,"Central European Time - Oslo, Bergen, Trondheim, Stavanger"
+Europe/Paris,CET,+01:00,"Central European Time - Paris, Marseille, Lyon, Toulouse"
+Europe/Podgorica,CET,+01:00,"Central European Time - Podgorica, Nikšić, Herceg Novi, Pljevlja"
+Europe/Prague,CET,+01:00,"Central European Time - Prague, Brno, Ostrava, Pilsen"
+Europe/Rome,CET,+01:00,"Central European Time - Rome, Milan, Naples, Turin"
+Europe/San_Marino,CET,+01:00,Central European Time - San Marino
+Europe/Malta,CET,+01:00,"Central European Time - San Pawl il-Baħar, Birkirkara, Mosta, Sliema"
+Europe/Sarajevo,CET,+01:00,"Central European Time - Sarajevo, Banja Luka, Zenica, Tuzla"
+Europe/Skopje,CET,+01:00,"Central European Time - Skopje, Kumanovo, Prilep, Bitola"
+Europe/Stockholm,CET,+01:00,"Central European Time - Stockholm, Göteborg, Malmö, Uppsala"
+Europe/Tirane,CET,+01:00,"Central European Time - Tirana, Durrës, Elbasan, Vlorë"
+Africa/Tunis,CET,+01:00,"Central European Time - Tunis, Sfax, Sousse, Kairouan"
+Europe/Vaduz,CET,+01:00,Central European Time - Vaduz
+Europe/Vatican,CET,+01:00,Central European Time - Vatican City
+Europe/Vienna,CET,+01:00,"Central European Time - Vienna, Graz, Linz, Favoriten"
+Europe/Warsaw,CET,+01:00,"Central European Time - Warsaw, Łódź, Kraków, Wrocław"
+Europe/Zagreb,CET,+01:00,"Central European Time - Zagreb, Split, Rijeka, Osijek"
+Europe/Zurich,CET,+01:00,"Central European Time - Zürich, Genève, Basel, Lausanne"
+Africa/Bangui,WAT,+01:00,"West Africa Time - Bangui, Bimbo, Mbaïki, Berbérati"
+Africa/Malabo,WAT,+01:00,"West Africa Time - Bata, Malabo, Ebebiyin"
+Africa/Brazzaville,WAT,+01:00,"West Africa Time - Brazzaville, Pointe-Noire, Dolisie, Kayes"
+Africa/Porto-Novo,WAT,+01:00,"West Africa Time - Cotonou, Abomey-Calavi, Djougou, Porto-Novo"
+Africa/Douala,WAT,+01:00,"West Africa Time - Douala, Yaoundé, Garoua, Kousséri"
+Africa/Kinshasa,WAT,+01:00,"West Africa Time - Kinshasa, Masina, Kikwit, Mbandaka"
+Africa/Lagos,WAT,+01:00,"West Africa Time - Lagos, Kano, Ibadan, Port Harcourt"
+Africa/Libreville,WAT,+01:00,"West Africa Time - Libreville, Port-Gentil, Franceville, Oyem"
+Africa/Luanda,WAT,+01:00,"West Africa Time - Luanda, N’dalatando, Huambo, Lobito"
+Africa/Ndjamena,WAT,+01:00,"West Africa Time - N'Djamena, Moundou, Sarh, Abéché"
+Africa/Niamey,WAT,+01:00,"West Africa Time - Niamey, Zinder, Maradi, Agadez"
+Africa/Bujumbura,CAT,+02:00,"Central Africa Time - Bujumbura, Muyinga, Gitega, Ruyigi"
+Africa/Gaborone,CAT,+02:00,"Central Africa Time - Gaborone, Francistown, Molepolole, Maun"
+Africa/Harare,CAT,+02:00,"Central Africa Time - Harare, Bulawayo, Chitungwiza, Mutare"
+Africa/Juba,CAT,+02:00,"Central Africa Time - Juba, Winejok, Yei, Malakal"
+Africa/Khartoum,CAT,+02:00,"Central Africa Time - Khartoum, Omdurman, Nyala, Port Sudan"
+Africa/Kigali,CAT,+02:00,"Central Africa Time - Kigali, Gisenyi, Butare, Gitarama"
+Africa/Blantyre,CAT,+02:00,"Central Africa Time - Lilongwe, Blantyre, Mzuzu, Zomba"
+Africa/Lubumbashi,CAT,+02:00,"Central Africa Time - Lubumbashi, Mbuji-Mayi, Kisangani, Kananga"
+Africa/Lusaka,CAT,+02:00,"Central Africa Time - Lusaka, Ndola, Kitwe, Chipata"
+Africa/Maputo,CAT,+02:00,"Central Africa Time - Maputo, Matola, Nampula, Beira"
+Europe/Athens,EET,+02:00,"Eastern European Time - Athens, Thessaloníki, Pátra, Piraeus"
+Asia/Beirut,EET,+02:00,"Eastern European Time - Beirut, Ra’s Bayrūt, Tripoli, Sidon"
+Europe/Bucharest,EET,+02:00,"Eastern European Time - Bucharest, Sector 3, Iaşi, Sector 6"
+Africa/Cairo,EET,+02:00,"Eastern European Time - Cairo, Alexandria, Giza, Shubrā al Khaymah"
+Europe/Chisinau,EET,+02:00,"Eastern European Time - Chisinau, Tiraspol, Bălţi, Bender"
+Asia/Hebron,EET,+02:00,"Eastern European Time - East Jerusalem, Gaza, Khān Yūnis, Jabālyā"
+Europe/Helsinki,EET,+02:00,"Eastern European Time - Helsinki, Espoo, Tampere, Oulu"
+Europe/Kaliningrad,EET,+02:00,"Eastern European Time - Kaliningrad, Chernyakhovsk, Sovetsk, Baltiysk"
+Europe/Kyiv,EET,+02:00,"Eastern European Time - Kyiv, Kharkiv, Odesa, Dnipro"
+Europe/Mariehamn,EET,+02:00,Eastern European Time - Mariehamn
+Asia/Nicosia,EET,+02:00,"Eastern European Time - Nicosia, Limassol, Larnaca, Stróvolos"
+Europe/Riga,EET,+02:00,"Eastern European Time - Riga, Daugavpils, Liepāja, Jelgava"
+Europe/Sofia,EET,+02:00,"Eastern European Time - Sofia, Plovdiv, Varna, Burgas"
+Europe/Tallinn,EET,+02:00,"Eastern European Time - Tallinn, Tartu, Narva, Pärnu"
+Africa/Tripoli,EET,+02:00,"Eastern European Time - Tripoli, Benghazi, Ajdabiya, Mişrātah"
+Europe/Vilnius,EET,+02:00,"Eastern European Time - Vilnius, Kaunas, Klaipėda, Šiauliai"
+Asia/Jerusalem,IST,+02:00,"Israel Time - Jerusalem, Tel Aviv, West Jerusalem, Haifa"
+Africa/Johannesburg,SAST,+02:00,"South Africa Time - Johannesburg, Cape Town, Durban, Soweto"
+Africa/Mbabane,SAST,+02:00,"South Africa Time - Manzini, Mbabane, Lobamba"
+Africa/Maseru,SAST,+02:00,"South Africa Time - Maseru, Mohale’s Hoek, Mafeteng, Leribe"
+Asia/Kuwait,AST,+03:00,"Arabian Time - Al Aḩmadī, Ḩawallī, As Sālimīyah, Şabāḩ as Sālim"
+Asia/Bahrain,AST,+03:00,"Arabian Time - Ar Rifā‘, Manama, Al Muharraq, Dār Kulayb"
+Asia/Baghdad,AST,+03:00,"Arabian Time - Baghdad, Al Mawşil al Jadīdah, Al Başrah al Qadīmah, Mosul"
+Asia/Qatar,AST,+03:00,"Arabian Time - Doha, Ar Rayyān, Umm Şalāl Muḩammad, Al Wakrah"
+Asia/Riyadh,AST,+03:00,"Arabian Time - Jeddah, Riyadh, Mecca, Medina"
+Asia/Aden,AST,+03:00,"Arabian Time - Sanaa, Aden, Al Ḩudaydah, Taiz"
+Asia/Amman,GMT+3,+03:00,"Asia/Amman - Amman, Zarqa, Irbid, Russeifa"
+Asia/Damascus,GMT+3,+03:00,"Asia/Damascus - Aleppo, Damascus, Homs, Ḩamāh"
+Africa/Addis_Ababa,EAT,+03:00,"East Africa Time - Addis Ababa, Jijiga, Gondar, Mek'ele"
+Indian/Antananarivo,EAT,+03:00,"East Africa Time - Antananarivo, Toamasina, Antsirabe, Mahajanga"
+Africa/Asmara,EAT,+03:00,"East Africa Time - Asmara, Keren, Massawa, Assab"
+Africa/Dar_es_Salaam,EAT,+03:00,"East Africa Time - Dar es Salaam, Mwanza, Zanzibar, Arusha"
+Africa/Djibouti,EAT,+03:00,"East Africa Time - Djibouti, 'Ali Sabieh, Tadjourah, Obock"
+Africa/Kampala,EAT,+03:00,"East Africa Time - Kampala, Gulu, Lira, Mbarara"
+Indian/Mayotte,EAT,+03:00,"East Africa Time - Mamoudzou, Koungou, Dzaoudzi"
+Africa/Mogadishu,EAT,+03:00,"East Africa Time - Mogadishu, Hargeysa, Berbera, Kismayo"
+Indian/Comoro,EAT,+03:00,"East Africa Time - Moroni, Moutsamoudou"
+Africa/Nairobi,EAT,+03:00,"East Africa Time - Nairobi, Kakamega, Mombasa, Ruiru"
+Europe/Minsk,MSK,+03:00,"Moscow Time - Minsk, Homyel', Hrodna, Mahilyow"
+Europe/Moscow,MSK,+03:00,"Moscow Time - Moscow, Saint Petersburg, Nizhniy Novgorod, Kazan"
+Europe/Simferopol,MSK,+03:00,"Moscow Time - Sevastopol, Simferopol, Kerch, Yevpatoriya"
+Antarctica/Syowa,SYOT,+03:00,Syowa Time - Syowa
+Europe/Istanbul,TRT,+03:00,"Turkey Time - Istanbul, Ankara, Bursa, İzmir"
+Asia/Tehran,IRST,+03:30,"Iran Time - Tehran, Mashhad, Isfahan, Karaj"
+Asia/Yerevan,AMT,+04:00,"Armenia Time - Yerevan, Gyumri, Vanadzor, Vagharshapat"
+Asia/Baku,AZT,+04:00,"Azerbaijan Time - Baku, Sumqayıt, Ganja, Lankaran"
+Asia/Tbilisi,GET,+04:00,"Georgia Time - Tbilisi, Batumi, Kutaisi, Rustavi"
+Asia/Dubai,GST,+04:00,"Gulf Time - Dubai, Sharjah, Al Ain City, Abu Dhabi"
+Asia/Muscat,GST,+04:00,"Gulf Time - Muscat, Seeb, Bawshar, ‘Ibrī"
+Indian/Mauritius,MUT,+04:00,"Mauritius Time - Port Louis, Vacoas, Beau Bassin-Rose Hill, Curepipe"
+Indian/Reunion,RET,+04:00,"Réunion Time - Saint-Denis, Saint-Paul, Le Tampon, Saint-Pierre"
+Europe/Samara,SAMT,+04:00,"Samara Time - Samara, Saratov, Tolyatti, Izhevsk"
+Indian/Mahe,SCT,+04:00,Seychelles Time - Victoria
+Asia/Kabul,AFT,+04:30,"Afghanistan Time - Kabul, Herāt, Mazār-e Sharīf, Kandahār"
+Indian/Kerguelen,FSAT,+05:00,French Southern & Antarctic Time - Port-aux-Français
+Indian/Maldives,MVT,+05:00,Maldives Time - Male
+Antarctica/Mawson,MAWT,+05:00,Mawson Time - Mawson
+Asia/Karachi,PKT,+05:00,"Pakistan Time - Karachi, Lahore, Faisalabad, Rawalpindi"
+Asia/Dushanbe,TJT,+05:00,"Tajikistan Time - Dushanbe, Isfara, Istaravshan, Kŭlob"
+Asia/Ashgabat,TMT,+05:00,"Turkmenistan Time - Ashgabat, Türkmenabat, Daşoguz, Mary"
+Asia/Tashkent,UZT,+05:00,"Uzbekistan Time - Tashkent, Namangan, Samarkand, Andijon"
+Asia/Aqtobe,AQTT,+05:00,"West Kazakhstan Time - Aktobe, Kyzylorda, Oral, Atyrau"
+Asia/Yekaterinburg,YEKT,+05:00,"Yekaterinburg Time - Yekaterinburg, Chelyabinsk, Ufa, Perm"
+Asia/Colombo,IST,+05:30,"India Time - Colombo, Dehiwala-Mount Lavinia, Maharagama, Jaffna"
+Asia/Kolkata,IST,+05:30,"India Time - Mumbai, Delhi, Bengaluru, Hyderābād"
+Asia/Kathmandu,NPT,+05:45,"Nepal Time - Kathmandu, Bharatpur, Pātan, Birgañj"
+Asia/Dhaka,BST,+06:00,"Bangladesh Time - Dhaka, Chattogram, Khulna, Rangpur"
+Asia/Thimphu,BTT,+06:00,"Bhutan Time - Thimphu, Phuntsholing, Tsirang, Punākha"
+Asia/Urumqi,CST,+06:00,"China Time - Ürümqi, Shihezi, Korla, Aksu"
+Asia/Almaty,ALMT,+06:00,"East Kazakhstan Time - Almaty, Shymkent, Karagandy, Taraz"
+Indian/Chagos,IOT,+06:00,Indian Ocean Time - Chagos
+Asia/Bishkek,KGT,+06:00,"Kyrgyzstan Time - Bishkek, Osh, Jalal-Abad, Karakol"
+Asia/Omsk,OMST,+06:00,"Omsk Time - Omsk, Tara, Kalachinsk"
+Antarctica/Vostok,VOST,+06:00,Vostok Time - Vostok
+Indian/Cocos,CCT,+06:30,Cocos Islands Time - West Island
+Asia/Yangon,MMT,+06:30,"Myanmar Time - Yangon, Mandalay, Nay Pyi Taw, Mawlamyine"
+Indian/Christmas,CXT,+07:00,Christmas Island Time - Flying Fish Cove
+Antarctica/Davis,DAVT,+07:00,Davis Time - Davis
+Asia/Hovd,HOVT,+07:00,"Hovd Time - Ulaangom, Khovd, Ölgii, Altai"
+Asia/Bangkok,ICT,+07:00,"Indochina Time - Bangkok, Samut Prakan, Mueang Nonthaburi, Udon Thani"
+Asia/Ho_Chi_Minh,ICT,+07:00,"Indochina Time - Ho Chi Minh City, Da Nang, Biên Hòa, Cần Thơ"
+Asia/Phnom_Penh,ICT,+07:00,"Indochina Time - Phnom Penh, Takeo, Siem Reap, Battambang"
+Asia/Vientiane,ICT,+07:00,"Indochina Time - Vientiane, Savannakhet, Pakse, Thakhèk"
+Asia/Novosibirsk,NOVT,+07:00,"Novosibirsk Time - Novosibirsk, Krasnoyarsk, Barnaul, Tomsk"
+Asia/Jakarta,WIB,+07:00,"Western Indonesia Time - Jakarta, Surabaya, Bekasi, Bandung"
+Australia/Perth,AWST,+08:00,"Australian Western Time - Perth, Mandurah, Bunbury, Baldivis"
+Asia/Brunei,BNT,+08:00,"Brunei Darussalam Time - Bandar Seri Begawan, Kuala Belait, Seria, Tutong"
+Asia/Makassar,WITA,+08:00,"Central Indonesia Time - Makassar, Samarinda, Denpasar, Balikpapan"
+Asia/Macau,CST,+08:00,China Time - Macau
+Asia/Shanghai,CST,+08:00,"China Time - Shanghai, Beijing, Shenzhen, Guangzhou"
+Asia/Hong_Kong,HKT,+08:00,"Hong Kong Time - Hong Kong, Kowloon, Victoria, Tuen Mun"
+Asia/Irkutsk,IRKT,+08:00,"Irkutsk Time - Irkutsk, Ulan-Ude, Bratsk, Angarsk"
+Asia/Kuala_Lumpur,MYT,+08:00,"Malaysia Time - Kuala Lumpur, Petaling Jaya, Klang, Johor Bahru"
+Asia/Manila,PHT,+08:00,"Philippine Time - Quezon City, Davao, Manila, Caloocan City"
+Asia/Singapore,SGT,+08:00,"Singapore Time - Singapore, Woodlands, Geylang, Queenstown Estate"
+Asia/Taipei,TWT,+08:00,"Taipei Time - Taipei, Kaohsiung, Taichung, Tainan"
+Asia/Ulaanbaatar,ULAT,+08:00,"Ulaanbaatar Time - Ulan Bator, Erdenet, Darhan, Mörön"
+Australia/Eucla,ACWST,+08:45,Australian Central Western Time - Eucla
+Asia/Dili,TLT,+09:00,"East Timor Time - Dili, Maliana, Suai, Likisá"
+Asia/Jayapura,WIT,+09:00,"Eastern Indonesia Time - Jayapura, Ambon, Sorong, Ternate"
+Asia/Pyongyang,KST,+09:00,"Korean Time - Pyongyang, Hamhŭng, Namp’o, Sunch’ŏn"
+Asia/Seoul,KST,+09:00,"Korean Time - Seoul, Busan, Incheon, Daegu"
+Pacific/Palau,PWT,+09:00,Palau Time - Ngerulmud
+Asia/Chita,YAKT,+09:00,"Yakutsk Time - Chita, Yakutsk, Blagoveshchensk, Belogorsk"
+Australia/Adelaide,ACST,+09:30,"Australian Central Time - Adelaide, Adelaide Hills, Mount Gambier, Morphett Vale"
+Australia/Darwin,ACST,+09:30,"Australian Central Time - Darwin, Alice Springs, Palmerston"
+Australia/Brisbane,AEST,+10:00,"Australian Eastern Time - Brisbane, Gold Coast, Logan City, Townsville"
+Australia/Sydney,AEST,+10:00,"Australian Eastern Time - Sydney, Melbourne, Canberra, Newcastle"
+Pacific/Guam,ChST,+10:00,"Chamorro Time - Dededo Village, Yigo Village, Tamuning-Tumon-Harmon Village, Tamuning"
+Pacific/Saipan,ChST,+10:00,Chamorro Time - Saipan
+Pacific/Chuuk,CHUT,+10:00,Chuuk Time - Chuuk
+Antarctica/DumontDUrville,DDUT,+10:00,Dumont-d’Urville Time - DumontDUrville
+Pacific/Port_Moresby,PGT,+10:00,"Papua New Guinea Time - Port Moresby, Lae, Mount Hagen, Popondetta"
+Asia/Vladivostok,VLAT,+10:00,"Vladivostok Time - Khabarovsk, Vladivostok, Khabarovsk Vtoroy, Komsomolsk-on-Amur"
+Australia/Lord_Howe,LHST,+10:30,Lord Howe Time - Lord Howe
+Pacific/Bougainville,BST,+11:00,Bougainville Time - Arawa
+Antarctica/Casey,CAST,+11:00,Casey Time - Casey
+Pacific/Kosrae,KOST,+11:00,"Kosrae Time - Kosrae, Palikir - National Government Center"
+Pacific/Noumea,NCT,+11:00,"New Caledonia Time - Nouméa, Mont-Dore, Dumbéa"
+Pacific/Norfolk,NFT,+11:00,Norfolk Island Time - Kingston
+Asia/Sakhalin,SAKT,+11:00,"Sakhalin Time - Yuzhno-Sakhalinsk, Magadan, Korsakov, Kholmsk"
+Pacific/Guadalcanal,SBT,+11:00,Solomon Islands Time - Honiara
+Pacific/Efate,VUT,+11:00,Vanuatu Time - Port-Vila
+Pacific/Fiji,FJT,+12:00,"Fiji Time - Nasinu, Suva, Lautoka, Nadi"
+Pacific/Tarawa,GILT,+12:00,Gilbert Islands Time - Tarawa
+Pacific/Majuro,MHT,+12:00,"Marshall Islands Time - Majuro, Kwajalein, RMI Capitol"
+Pacific/Nauru,NRT,+12:00,Nauru Time - Yaren
+Pacific/Auckland,NZST,+12:00,"New Zealand Time - Auckland, Wellington, Christchurch, Manukau City"
+Antarctica/McMurdo,NZST,+12:00,New Zealand Time - McMurdo
+Asia/Kamchatka,PETT,+12:00,"Petropavlovsk-Kamchatski Time - Petropavlovsk-Kamchatsky, Yelizovo, Vilyuchinsk, Anadyr"
+Pacific/Funafuti,TVT,+12:00,Tuvalu Time - Funafuti
+Pacific/Wake,WAKT,+12:00,Wake Island Time - Wake
+Pacific/Wallis,WFT,+12:00,Wallis & Futuna Time - Mata-Utu
+Pacific/Chatham,CHAST,+12:45,Chatham Time - Chatham
+Pacific/Apia,WST,+13:00,Apia Time - Apia
+Pacific/Kanton,PHOT,+13:00,Phoenix Islands Time - Kanton
+Pacific/Fakaofo,TKT,+13:00,Tokelau Time - Fakaofo
+Pacific/Tongatapu,TOT,+13:00,Tonga Time - Nuku‘alofa
+Pacific/Kiritimati,LINT,+14:00,Line Islands Time - Kiritimati
